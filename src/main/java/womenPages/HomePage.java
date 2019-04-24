@@ -39,6 +39,7 @@ public class HomePage extends DriverScript {
 	@FindBy(linkText="Popular")
 	private WebElement popular;
 	
+	//intionliaagtion Webelements
 	
 	public HomePage()
 	{
